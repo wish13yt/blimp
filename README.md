@@ -2,7 +2,8 @@
 ![blimp](https://github.com/wish13yt/blimp/assets/100239673/e31c709b-7bde-46d7-bd53-f6f2a21535c2)
 A mobile app for Blips.club, made using Appilix.
 <br>
-Supported devices
+Supported devices:
+<br>
 iOS: ➖ (Sort of supported)
 <br>
 Android: ✅ (Fully supported)

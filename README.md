@@ -2,8 +2,10 @@
 ![blimp](https://github.com/wish13yt/blimp/assets/100239673/e31c709b-7bde-46d7-bd53-f6f2a21535c2)
 A mobile app for Blips.club, made using Appilix.
 <br>
-iOS: ➖
-Android: ✅
+Supported devices
+iOS: ➖ (Sort of supported)
+<br>
+Android: ✅ (Fully supported)
 <br>
 Font used for icon: Coolvetica
 This is an app for https://m.blips.club

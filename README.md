@@ -6,3 +6,5 @@ A mobile app for Blips.club, made using Appilix.
 Font used for icon: Coolvetica
 This is an app for https://m.blips.club
 Blips/Bittico is not affiliated in anyway with Wish, Appilix, or Blimp.
+Wish does not provide support for content shown in the app, and is not responsible for any content shown there.
+Have an idea? Send it to wish@programmer.net

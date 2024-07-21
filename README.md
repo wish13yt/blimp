@@ -11,7 +11,11 @@ Android: ✅ (Fully supported)
 Font used for icon: Coolvetica
 <br>
 This is an app for https://m.blips.club
+<br>
 Blips/Bittico is not affiliated in anyway with Wish, Appilix, or Blimp.
+<br>
 Wish does not provide support for content shown in the app, and is not responsible for any content shown there.
+<br>
 Have an idea? Send it to wish@programmer.net
+<br>
 By downloading this app, you agree that you have read this fully, and agree to what has been said.

@@ -9,6 +9,7 @@ iOS: ➖ (Sort of supported)
 Android: ✅ (Fully supported)
 <br>
 Font used for icon: Coolvetica
+<br>
 This is an app for https://m.blips.club
 Blips/Bittico is not affiliated in anyway with Wish, Appilix, or Blimp.
 Wish does not provide support for content shown in the app, and is not responsible for any content shown there.
